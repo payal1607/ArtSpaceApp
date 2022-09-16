@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="cardinal_title">Beatiful Red Cardinal</string>
+    <string name="mobile_view_forest_title">Mobile View Forest</string>
+    <string name="lake_title">Wonderful Lake in Valley</string>
+    <string name="squirrel_title">Squirrel Close Up</string>
+    <string name="tree_natural_title">Tree Sunset View</string>
+    <string name="tree_view_title">Singal Tree in Desert</string>
+    <string name="cardinal_artist">Payal Vaghasiya</string>
+    <string name="mobile_view_forest_artist">Ankita Radadiya</string>
+    <string name="lake_artist">Radadiya Payal</string>
+    <string name="squirrel_artist">Arman Malik</string>
+    <string name="tree_natural_artist">Simran Patel</string>
+    <string name="tree_view_artist">Sita Agrawal</string>
+    <string name="cardinal_year">2022</string>
+    <string name="mobile_view_forest_year">2021</string>
+    <string name="lake_year">2020</string>
+    <string name="squirrel_year">2022</string>
+    <string name="tree_natural_year">2018</string>
+    <string name="tree_view_year">2015</string>
+    <string name="cardinal_content_description">Red Cardinal</string>
+    <string name="mobile_view_forest_content_description">Forest View</string>
+    <string name="lake_content_description">Lake</string>
+    <string name="squirrel_content_description">Squirrel</string>
+    <string name="tree_natural_content_description">Tree Sunset</string>
+    <string name="tree_view_content_description">Tree in Desert</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
